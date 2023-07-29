@@ -1,0 +1,13 @@
+{
+    "31337": {
+        "Ethcord": {
+            "address": "0x5FbDB2315678afecb367f032d93F642f64180aa3"
+        }
+    },
+    "11155111": {
+        "Ethcord": {
+            "address": "0x5c99aaA47A4Ba0F2A470ACC45Bd34949c47C147d"
+        },
+        "explorerURL": "https://sepolia.infura.io/v3/"
+    }
+}
